@@ -1,5 +1,6 @@
 # LSMaODE
-Multi-population based Differential Evolution for Large-Scale Many-Objective Optimization
+Kai Zhang, Chaonan Shen, Gary G. Yen, Multipopulation-Based Differential Evolution for Large-Scale Many-Objective Optimization, IEEE Transactions on Cybernetics, 2022, DOI: 10.1109/TCYB.2022.3178929
+https://ieeexplore.ieee.org/document/9804338
 
 We present multi-population based differential evolution algorithm, named LSMaODE, which can solve large-scale many-objective optimization problems efficiently and effectively.
 
